@@ -8,7 +8,7 @@ fibs x = fibs(x-1) + fibs(x-2)
 f :: Integer -> Integer
 f n
   | n < 0 = error "argument cannot be negative number!"
-  | otherwise = (* fibs n) $ sum [0..n]
+  | otherwise = sum (map (^ fibs n) [0..n])
 
 -- examples
 
