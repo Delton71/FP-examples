@@ -51,3 +51,20 @@
 [4.11. Циклические сдвиги списка;](https://github.com/Delton71/FP-examples/blob/main/hw_4/11.hs)
 
 [4.12. Реализация _unzip_ с помощью _map_ и _foldr_.](https://github.com/Delton71/FP-examples/blob/main/hw_4/12.hs)
+
+
+## Домашнее задание 5
+
+[5.1. Сложение и умножение чисел;](https://github.com/Delton71/FP-examples/blob/main/hw_5/1.hs)
+
+[5.2. Сортировка файла;](https://github.com/Delton71/FP-examples/blob/main/hw_5/2.hs)
+
+[5.3. Случайная перестановка списка;](https://github.com/Delton71/FP-examples/blob/main/hw_5/3.hs)
+
+[5.4. Метод Монте-Карло;](https://github.com/Delton71/FP-examples/blob/main/hw_5/4.hs)
+
+[5.5. Среднее значение коллекции;](https://github.com/Delton71/FP-examples/blob/main/hw_5/5.hs)
+
+[5.6. Оценка числа тузов у игроков при игре в карты;](https://github.com/Delton71/FP-examples/blob/main/hw_5/6.hs)
+
+[5.7. Оценка торговой стратегии.](https://github.com/Delton71/FP-examples/blob/main/hw_5/7.hs)
